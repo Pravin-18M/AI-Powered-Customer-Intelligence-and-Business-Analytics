@@ -5,7 +5,7 @@ This repository contains an end-to-end Jupyter notebook for Amazon e-commerce cu
 ## Contents
 
 - `amazon_customer_intelligence.ipynb`: complete analysis and model-training workflow
-- `amazon_ecommerce_1M.csv`: transaction dataset used by the notebook
+- `amazon_ecommerce_1M.csv`: transaction dataset used by the notebook, Follow the link to download the dataset: https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce
 - `customer_intelligence_models.joblib`: generated model bundle, created after running the export cell
 
 ## Analytics included
